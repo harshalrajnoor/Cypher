@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "393341952456",
-    "project_id": "cypher-e95d0",
-    "storage_bucket": "cypher-e95d0.appspot.com"
+    "project_number": "1001232125971",
+    "project_id": "encrypted-chatting-application",
+    "storage_bucket": "encrypted-chatting-application.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:393341952456:android:c80d392461116a47ffa0fd",
+        "mobilesdk_app_id": "1:1001232125971:android:c8f764c1bb90488d80afe6",
         "android_client_info": {
           "package_name": "com.example.cypher"
         }
       },
       "oauth_client": [
         {
-          "client_id": "393341952456-qatr91ilm87k1770m2589pp1d92o68c5.apps.googleusercontent.com",
+          "client_id": "1001232125971-n9pp8t9drjdlco30a01gvg3m9m4iod5c.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDO197_uYQhpKSPNOQiixqSVoIU4iC7rFc"
+          "current_key": "AIzaSyASHQgT4b48IJZmsHf460xDiiwnK7v1rN4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "393341952456-qatr91ilm87k1770m2589pp1d92o68c5.apps.googleusercontent.com",
+              "client_id": "1001232125971-n9pp8t9drjdlco30a01gvg3m9m4iod5c.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
